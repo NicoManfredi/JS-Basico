@@ -22,6 +22,6 @@ console.log(estudiante.charAt(0));
 console.log(estudiante.lastIndexOf("i"));
 console.log(estudiante.charAt(15));
 
-console.log(estudiante.trim().length);
+console.log(estudiante.replace(/ /g, "");
 
 console.log(estudiante.includes(nombre, apellido));
